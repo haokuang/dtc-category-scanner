@@ -1,5 +1,5 @@
 ---
-name: dtc-category-to-lark
+name: dtc-category-scanner
 description: 探索 DTC 网站类目结构，统计 Top 5 核心一级类目的 SPU 数/均价/中位数，并同步写入飞书汇总行、品牌定位摘要、示例图片与 Wiki 品牌明细页。
 user-invocable: true
 metadata:
